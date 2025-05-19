@@ -23,6 +23,5 @@ Core OpenCV Techniques Used
 *cv2.boundingRect() & cv2.rectangle() – Draw boxes around detected defects.
 *cv2.imshow() – Display the output image with marked defects.
 Conclusion:
- Conclusion
 This project demonstrates a simple yet effective approach to automated defect detection using classical image processing techniques with OpenCV. It identifies and highlights darker regions in images — such as blemishes, cracks, or bruises — that may indicate defects in industrial or agricultural products.
 
