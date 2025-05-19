@@ -1,4 +1,4 @@
-Title:Industrial Defect Detection:
+Title:Industrial Defect Detection
 Purpose of the Code:
 The purpose of this code is to **detect and highlight surface defects in images**, specifically in industrial or agricultural products like fruits, vegetables, or manufactured parts.
 Key Goals:
